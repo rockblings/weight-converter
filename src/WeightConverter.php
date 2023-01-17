@@ -2,7 +2,7 @@
 
 namespace Jobadssist\WeightConverter;
 
-class WeightConverterClass
+class WeightConverter
 {
     public function __construct(protected float $kilograms)
     {

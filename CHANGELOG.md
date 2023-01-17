@@ -2,6 +2,10 @@
 
 All notable changes to `weight-converter` will be documented in this file.
 
+## 1.3.1 - 2023-01-17
+
+- rename `WeightConverterClass` to `WeightConverter`
+
 ## 1.3.0 - 2023-01-16
 
 - remove dummy test file and clean up the code
