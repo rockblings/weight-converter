@@ -17,8 +17,8 @@ composer require jobadssit/weight-converter
 ## Usage
 
 ```php
-$skeleton = new Jobadssist\WeightConverter();
-echo $skeleton->echoPhrase('Hello, Jobadssist!');
+echo Jobadssist\WeightConverter\WeightConverter::kilograms(100)->toPounds(). PHP_EOL;
+echo Jobadssist\WeightConverter\WeightConverter::kilograms(100)->toStones(). PHP_EOL;
 ```
 
 ## Testing
